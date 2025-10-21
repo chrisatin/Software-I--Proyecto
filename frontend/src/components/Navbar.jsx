@@ -17,9 +17,11 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center">
-              <Home className="w-5 h-5 text-white" />
-            </div>
+            <img 
+              src="/logo.png" 
+              alt="Click&Home Logo" 
+              className="w-12 h-12 object-contain"
+            />
             <span className="text-xl font-bold text-gray-900">Click&Home</span>
           </Link>
 

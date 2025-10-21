@@ -62,8 +62,8 @@ const sampleProperties = [
     property_type: "house",
     status: "available",
     images: [
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800",
-      "https://images.unsplash.com/photo-1600566753086-5f9d5d5b8b8b?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800",
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800"
     ],
     model_3d_path: "/models/house2.glb",
