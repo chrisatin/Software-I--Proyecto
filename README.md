@@ -108,7 +108,7 @@ node src/server.js
 
 ## 🌐 URLs
 
-- **Frontend**: http://localhost:5173
+- **Frontend**: http://localhost:5000
 - **Backend API**: http://localhost:5000/api
 - **Base de datos**: MySQL en puerto 3306
 
